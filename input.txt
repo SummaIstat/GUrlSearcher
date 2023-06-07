@@ -1,0 +1,7 @@
+id	search-string
+0	my enterprise name
+1	another enterprise name
+2	fancy name
+3	string to be searched
+4	another name to be searched
+5	text to be searched
