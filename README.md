@@ -1,10 +1,6 @@
-***************************************
-*****     GUrlSearcher readme     *****
-***************************************
+# GUrlSearcher readme     
 
-======================================================================
-What is GUrlSearcher and what is it intended to be used for
-======================================================================
+## What is GUrlSearcher and what is it intended to be used for
 
 GUrlSearcher is the successor of UrlSearcher.
 
@@ -17,9 +13,7 @@ I developed and used this program to acquire the list of the top 10 URLs associa
 
 Once the top 10 URLs for each company name in the list are obtained, the next step is to identify which one is most likely to be the official website for that company.
 
-======================================================================
-How is the project folder made
-======================================================================
+## How is the project folder made
 
 The GUrlSearcher folder contains the following elements:
 
@@ -35,9 +29,8 @@ The GUrlSearcher folder contains the following elements:
 10) LICENSE => copy of the EUPL v1.2 license
 
 
-======================================================================
-How to execute the program on your PC by using the terminal
-======================================================================
+## How to execute the program on your PC by using the terminal
+
 
 If you have Python 3.X already installed on your PC you just have to apply the following instruction points:
 
@@ -65,9 +58,8 @@ If you have Python 3.X already installed on your PC you just have to apply the f
                 - a file called .google-cookie (you can delete this)
 
 
-======================================================================
-How to execute the program on your PC by double click the EXE version
-======================================================================
+## How to execute the program on your PC by double click the EXE version
+
 
 If you are using a Windows based operating system, alternatively to using the terminal commands described in the previous section, you can simply double-click on the GUrlSearcherAuto.exe executable file icon.
 
@@ -76,15 +68,13 @@ In this case, before running the program by double-clicking, you still need to m
     - the "proxy" and "path" related parameters configuration in the config.cfg file is correct.
 
 
-======================================================================
-Licensing
-======================================================================
+## Licensing
 
 This software is released under the European Union Public License v. 1.2
 A copy of the license is included in the project folder.
 
-=====================================================================
-Considerations
-======================================================================
+
+## Considerations
+
 
 This program is still a work in progress so be patient if it is not completely fault tolerant; in any case feel free to contact me (donato.summa@istat.it) if you have any questions or comments.
